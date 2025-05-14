@@ -15,7 +15,7 @@ function save(){
         }
         countEn.innerText+=" "+count
         x=1
-        count=0;
+        count=0
         countPs.innerText=0
     }
 }

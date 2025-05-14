@@ -14,7 +14,7 @@ function save(){
             countEn.innerText+=" -"
         }
         countEn.innerText+=" "+count
-        x++
+        x=1
         count=0;
         countPs.innerText=0
     }
